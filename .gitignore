@@ -30,5 +30,8 @@ backend/__pycache__/
 *.db
 *.sqlite3
 
+# Database scripts
+ferreteriaBD.md
+
 # Docker
 .dockerignore
