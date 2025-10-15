@@ -1,5 +1,5 @@
 import secrets
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 from typing import Optional, List, Union
 
 class Settings(BaseSettings):
